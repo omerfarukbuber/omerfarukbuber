@@ -17,7 +17,9 @@ I'm a **.NET Backend Developer** passionate about building scalable and efficien
 ### 🛠️ Tech Stack
 #### **Languages & Frameworks**
 - C# | .NET Core | EF Core | ASP.NET
-- Mediatr | Fluent Validation | AutoMapper | Mapster | xUnit | Dapper 
+  - Mediatr | Fluent Validation | AutoMapper | Mapster | xUnit | Dapper
+    
+- Java | Spring Boot | Spring Data JPA | Spring Security | JUnit
 
 #### **Observability & Logging**
 - OpenTelemetry | Serilog | Jaeger | Elasticsearch
@@ -30,11 +32,13 @@ I'm a **.NET Backend Developer** passionate about building scalable and efficien
 
 #### **Software Architecture**
 - Clean Architecture | Vertical Slice Architecture | CQRS | Repository Pattern
+- Microservices Architecture | Event-Driven Architecture
 
 ---
 
 ### 📌 Notable Projects
 - **[Observability Project](https://github.com/omerfarukbuber/observability)** - A project demonstrating the implementation of observability using OpenTelemetry, Serilog, and Jaeger.
+- **[BlogSample](https://github.com/omerfarukbuber/BlogSample)** - A sample project showcasing a blog system with features like CRUD operations, authentication, and role management.
 
 ---
 
